@@ -98,7 +98,7 @@ details:first-child {
 
 summary::after {
     content: url("../assets/images/icon-plus.svg");
-    margin-left: 5px;
+    margin-left: 10px;
 
 }
 
